@@ -19,6 +19,7 @@ source freelancer-oauth-demo-app/bin/activate
 ### Get the code ###
 ```
 $ git clone https://github.com/freelancer/freelancer-oauth-demo-app.git
+$ cd freelancer-oauth-demo-app
 $ pip install -e .
 ```
 
